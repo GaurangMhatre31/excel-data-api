@@ -1,0 +1,8 @@
+streamlit==1.10.0
+pandas==1.4.2
+numpy==1.22.3
+openpyxl==3.0.9  # Required for reading Excel files
+xlrd==2.0.1  # Required for older Excel file formats (if needed)
+requests==2.27.1  # To handle external API requests if any
+matplotlib==3.5.1  # For optional data visualization
+plotly==5.5.0  # For advanced charting and plotting in Streamlit
